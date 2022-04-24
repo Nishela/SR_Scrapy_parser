@@ -1,1 +1,1 @@
-Scrappy==2.6.1
+Scrapy==2.6.1
