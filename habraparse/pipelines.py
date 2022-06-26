@@ -11,3 +11,13 @@ from itemadapter import ItemAdapter
 class HabraparsePipeline:
     def process_item(self, item, spider):
         return item
+
+
+class HabraparsePipeline1:
+    def process_item(self, item, spider):
+        return item
+
+
+class HabraparsePipeline2:
+    def process_item(self, item, spider):
+        return item
