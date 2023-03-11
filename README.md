@@ -1,1 +1,1 @@
-# scrapy_parser
+# Учебный проект scrapy_parser
